@@ -1,4 +1,4 @@
-![logo](https://github.com/crazypriyanka-2001/crazypriyanka-2001/blob/main/my%20banner.png)
+![logo](https://github.com/crazypriyanka-2001/crazypriyanka-2001/blob/main/my%20banner2.png)
 <h1 align="center">Hi 👋, I'm Priyanka Patel</h1>
 
 <h3 align="center">exploring web development and open source projects</h3>
