@@ -15,7 +15,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/priyanka patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyanka patel" height="30" width="40" /></a>
 <a href="https://fb.com/priyanka patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="priyanka patel" height="30" width="40" /></a>
-<a href="https://instagram.com/i.priyanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.priyanka" height="30" width="40" /></a>
+<a href="https://instagram.com/priyanka patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i.priyanka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
