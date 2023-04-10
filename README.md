@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka Patel</h1>
 
-<h3 align="center">want to be data scientist and frontend developer</h3>
+<h3 align="center">exploring web development and open source projects</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/PP9v7VIs6R4AAAAd/scaler-create-impact.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazypriyanka-2001&label=Profile%20views&color=0e75b6&style=flat" alt="crazypriyanka-2001" /> </p>
