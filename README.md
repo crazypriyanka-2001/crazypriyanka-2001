@@ -6,11 +6,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=crazypriyanka-2001&label=Profile%20views&color=0e75b6&style=flat" alt="crazypriyanka-2001" /> </p>
 
-- 🌱 I’m currently learning **react,bootstrap**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **html,css,python**
+- 💬 Ask me about **SQL|Power BI|PYTHON**
 
-- 📫 How to reach me **priyankapatel4460@gmail.com**
+- 📫 How to reach me **ai.priyankapatel@gmail.com.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
